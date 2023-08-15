@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" modified="2023-08-15T04:43:37.782Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0" etag="4Yr1-q9Y08ykkbq8pLmH" version="21.6.2" type="device">
+  <diagram name="Page-1" id="i3uXJNgXB06RhIgfeoB3">
+    <mxGraphModel dx="776" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sdEC8-XiloE1gbUIs729-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endWidth=10.833333333333334;endSize=3.9416666666666673;width=5.833333333333334;fillColor=#e3c800;strokeColor=#B09500;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;fontFamily=Times New Roman;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="310" as="sourcePoint" />
+            <mxPoint x="520" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sdEC8-XiloE1gbUIs729-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endWidth=10.833333333333334;endSize=3.9416666666666673;width=5.833333333333334;fillColor=#e51400;strokeColor=#B20000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=24;fontFamily=Times New Roman;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="270" as="sourcePoint" />
+            <mxPoint x="360" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sdEC8-XiloE1gbUIs729-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=10.833333333333334;endSize=3.9416666666666673;width=5.833333333333334;fillColor=#60a917;strokeColor=#2D7600;exitX=0.625;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=24;fontFamily=Times New Roman;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="270" as="sourcePoint" />
+            <mxPoint x="480" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sdEC8-XiloE1gbUIs729-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endWidth=10.833333333333334;endSize=3.9416666666666673;width=5.833333333333334;fillColor=#a0522d;strokeColor=#6D1F00;fontSize=24;fontFamily=Times New Roman;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="408" y="307.5" as="sourcePoint" />
+            <mxPoint x="443" y="307.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sdEC8-XiloE1gbUIs729-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endWidth=10.833333333333334;endSize=3.9416666666666673;width=5.833333333333334;fillColor=#0050ef;strokeColor=#001DBC;fontSize=24;fontFamily=Times New Roman;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="260" as="sourcePoint" />
+            <mxPoint x="410" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
